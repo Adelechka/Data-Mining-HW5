@@ -1,0 +1,8 @@
+milk coke bread
+milk pepsi juice
+milk bread
+coke juice
+milk bread pepsi
+milk coke bread juice
+coke bread juice
+coke bread
